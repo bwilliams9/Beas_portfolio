@@ -1,4 +1,4 @@
-# example_portfolio
+# **Example_portfolio**
 Example Data Science Portfolio
 [Project 1: Data Science Salary Estimator: Project Overview](https://github.com/PlayingNumbers/ds_salary_proj) 
 # [Project 1: Data Science Salary Estimator](https://github.com/PlayingNumbers/ds_salary_proj) 
